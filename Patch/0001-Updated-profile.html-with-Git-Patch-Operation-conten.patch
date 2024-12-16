@@ -1,0 +1,26 @@
+From 49389156764f01cf1468aa8a6e4328f57584e7b4 Mon Sep 17 00:00:00 2001
+From: "APAC\\BAP3COB" <r.rajpriya@in.bosch.com>
+Date: Mon, 16 Dec 2024 16:08:34 +0530
+Subject: [PATCH] Updated profile.html with Git Patch Operation content
+
+---
+ profile.html | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+diff --git a/profile.html b/profile.html
+index 08778d7..1ae889d 100644
+--- a/profile.html
++++ b/profile.html
+@@ -1 +1,7 @@
+-{\rtf1}
+\ No newline at end of file
++<html>
++<head>
++</head>
++<body>
++Git Patch Operation
++</body>
++</html>
+-- 
+2.45.2.windows.1
+
